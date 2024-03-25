@@ -44,12 +44,82 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
+Developed by: V MYTHILI
+
+RegisterNumber:212223040123
 */
+
+
+
+
+**CODE:**
+
+
+
+
+**FULL ADDER:**
+
+
+
+
+<img width="293" alt="DE EX4 1" src="https://github.com/Mythili7339267708/FULL_ADDER_SUBTRACTOR/assets/144260246/172acb29-eeb2-43c5-b83e-6592c32a8d6c">
+
+
+
+
+
+**FULL SUBTRACTOR:**
+
+
+
+
+<img width="481" alt="DE EX 4 2" src="https://github.com/Mythili7339267708/FULL_ADDER_SUBTRACTOR/assets/144260246/bc99e3a5-dfad-4888-bbc4-b98f938a28d6">
+
+
 
 **RTL Schematic**
 
+
+**FULL ADDER:**
+
+
+<img width="410" alt="DE EX 4 3" src="https://github.com/Mythili7339267708/FULL_ADDER_SUBTRACTOR/assets/144260246/dd2c1639-2ff2-4858-9617-6c1ba1512195">
+
+
+
+
+
+**FULL SUBTRACTOR:**
+
+
+
+<img width="353" alt="DE EX4 4" src="https://github.com/Mythili7339267708/FULL_ADDER_SUBTRACTOR/assets/144260246/5be82393-61b0-4f01-a199-f3a2b97f7089">
+
+
+
+
 **Output Timing Waveform**
+
+
+
+**FULL ADDER:**
+
+
+<img width="590" alt="DE EX 4 5" src="https://github.com/Mythili7339267708/FULL_ADDER_SUBTRACTOR/assets/144260246/9a0d1799-926b-4dfa-9f6b-3f0b929f67e6">
+
+
+
+
+**FULL SUBTRACTOR:**
+
+
+
+<img width="586" alt="DE EX4 6" src="https://github.com/Mythili7339267708/FULL_ADDER_SUBTRACTOR/assets/144260246/667c99c3-169c-4922-af35-c59a271180b0">
+
+
+
 
 **Result:**
 
